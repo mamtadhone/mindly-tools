@@ -12,11 +12,13 @@ MindlyTools is a multipurpose website used to access multiple useless tools
 
 Some of those Tools include:
 
-- calculator (In development - Mitch)
-- Note taking (Coming soon)
+- Todo list
+- calculator
+- Habit tracker
+- Calendar
+- Note taking
 - Pomodoro timer (Coming soon)
 - Normal timer (Coming soon)
-- Habit tracker (Coming soon)
 
 ## Tech stack
 
@@ -30,31 +32,24 @@ JavaScript
 
 Firebase
 
-
 # Credits
 
 ## Front end
 
-Mamta - Css and styling
+Mamta - Css styling, colourschemeing, created tools and React routing
 
-David - Css Styling, colourschemeing and positioning
-
+David - Css Styling and positioning
 
 ## Backend
 
-Mitch - Project cleanup, React routing, templates, multiple tools such as a calculator.
+Mitch - Project cleanup, templates.
 
 Hamza - Firebase Auth and Validation
-
-
-## Extra
-
-Mitch - Project manager, guided others, fixed code and errors along the way, decided tech stack, manages the github and everyones progress.
 
 # Installation
 
 ```
-git clone https://github.com/MindlyTools/MindlyTools
+git clone https://github.com/mamtadhone/mindly-tools.git
 cd MindlyTools
 cd client && npm i && cd ../server && npm i
 ```
