@@ -3,11 +3,6 @@
 Deployment link:
 https://mindlytools-1.onrender.com/
 
-> [!IMPORTANT]
-> This project is still in development!
-
-![A screenshot showcasing the website in development](./assets/showcase.png)
-
 MindlyTools is a multipurpose website used to access multiple useless tools
 
 Some of those Tools include:
