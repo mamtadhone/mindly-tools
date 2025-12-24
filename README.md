@@ -3,7 +3,7 @@
 Deployment link:
 https://mindlytools-1.onrender.com/
 
-MindlyTools is a multipurpose website used to access multiple useless tools
+MindlyTools is a multipurpose website used to access multiple useful tools
 
 Some of those Tools include:
 
